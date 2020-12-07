@@ -1,5 +1,5 @@
 {
-  "name": "modbus-tcp-v5w",
+  "name": "v5w-modbus",
   "version": "1.0.0",
   "description": "purge js build modbus-tcp lib",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xqli82/modbus-tcp.git"
+    "url": "git+https://github.com/xqli82/v5w-modbus"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xqli82/modbus-tcp/issues"
+    "url": "https://github.com/xqli82/v5w-modbus/issues"
   },
-  "homepage": "https://github.com/xqli82/modbus-tcp#readme",
+  "homepage": "https://github.com/xqli82/v5w-modbus#readme",
   "dependencies": {
     "jsmodbus": "^4.0.4"
   }

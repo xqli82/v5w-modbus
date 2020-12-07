@@ -1,0 +1,17 @@
+module.exports={
+    voltage:{
+        value:0,
+        des:'电压',
+        update:''
+    },
+    current:{
+        value:0,
+        des:'电流',
+        update:''
+    },
+    speed:{
+        value:0,
+        des:'速度',
+        update:''
+    }
+}
